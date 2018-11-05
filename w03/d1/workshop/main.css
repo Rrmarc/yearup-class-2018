@@ -1,0 +1,50 @@
+div{
+  height: 800px;
+}
+img{
+  width:70%;
+border-radius: 20%;
+}
+.surf {
+  width: 50%;
+  border-radius: 50%;
+
+
+}
+.sectionA{
+  background: #ff5e57;
+  image: right;
+  text-align: right;
+  padding:20%;
+  font-size: 24px;
+  font-family: monospace;
+
+}
+.sectionB{
+  background: #ffdd59;
+
+
+
+}
+.sectionC{
+  background:#ffa801 ;
+}
+.sectionD{
+  background:#34e7e4 ;
+}
+
+
+.hidden{
+  opacity:0 ;
+
+}
+
+.show{
+  animation= reveal 600ms;
+}
+
+@keyframes reveal {
+  0% { opacity: 0;}
+  100%{ opacity: 1;}
+
+}
