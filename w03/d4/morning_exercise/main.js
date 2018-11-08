@@ -1,5 +1,5 @@
-//RANDOM ITEM FROM AN ARRAY https://css-tricks.com/snippets/javascript/select-random-item-array/
-
+// //RANDOM ITEM FROM AN ARRAY https://css-tricks.com/snippets/javascript/select-random-item-array/
+//
 const quotes = [
   '"I’m not a businessman, I’m a business… man."– Jay Z ',
   '"Its Cool To Love To Win, But Its Better To Hate To Lose"– Nas',
@@ -9,6 +9,10 @@ const quotes = [
 ];
 
 function randomQuote(){
+  let quoteElement= document.getElementById('quote');
+  let
+
+
 
 }
 
